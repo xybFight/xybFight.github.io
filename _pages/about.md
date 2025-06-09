@@ -15,11 +15,11 @@ Contact: xiaoyb21@mails.jlu.edu.cn
 
 🖖Selected Scholarship and Awards
 ======
-- CSC Scholarship， 2023.11-2024.10
+- CSC Scholarship 2023.11-2024.10
 - Outstanding Graduates of Hunan Province, 2021
 - China National Scholarship, 2021
 - Academic scholarships: First-class (2018-2019, 2019-2020), Second-class (2020-2021)
 
 🗃️Services
 ======
-Reviewer: NeurIPS, ICLR, AAAI, IJCAI, TNNLS, etc.
+Reviewer: NeurIPS'25, ICLR'25, AAAI'25, IJCAI'25, TNNLS, AAAI'24 etc.
