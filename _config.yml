@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "Jilin, China"
 site_theme               : "default"
-title                    : "Yubin Xiao / Personal Homepage"
+title                    : "Dr. Yubin Xiao"
 title_separator          : "-"
-name                     : &name "Yubin Xiao"
+name                     : &name "Yubin Xiao (肖钰彬)"
 description              : &description "Welcome to Yubin Xiao's personal homepage "
 url                      : https://xybFight.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
