@@ -60,7 +60,7 @@ author_profile: true
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">AAAI 2024</span>  **Y. Xiao**, D. Wang, B. Li, M. Wang, X. Wu, C. Zhou, Y. Zhou, “Distilling autoregressive models to obtain high-performance non-autoregressive solvers for vehicle routing problems with faster inference speed.” [paper](https://ojs.aaai.org/index.php/AAAI/article/view/30008) [code](https://github.com/xybFight/GNARKD)
+">AAAI 2024</span>  **Y. Xiao**, D. Wang, B. Li, M. Wang, X. Wu, C. Zhou, Y. Zhou, “Distilling autoregressive models to obtain high-performance non-autoregressive solvers for vehicle routing problems with faster inference speed.” [paper](https://ojs.aaai.org/index.php/AAAI/article/view/30008) [code](https://github.com/xybFight/GNARKD) [blog](https://zhuanlan.zhihu.com/p/674871732)
 
 - <span style="
   background-color: #e0e0e0;
@@ -97,7 +97,7 @@ author_profile: true
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">TNNLS</span> **Y. Xiao**, D. Wang, B. Li, H. Chen, W. Pang, X. Wu, H. Li, D. Xu, Y. Liang, Y. Zhou, “Reinforcement learning-based nonautoregressive solver for traveling salesman problems.” [paper](https://ieeexplore.ieee.org/abstract/document/10737904) [code](https://github.com/xybFight/NAR4TSP)
+">TNNLS</span> **Y. Xiao**, D. Wang, B. Li, H. Chen, W. Pang, X. Wu, H. Li, D. Xu, Y. Liang, Y. Zhou, “Reinforcement learning-based nonautoregressive solver for traveling salesman problems.” [paper](https://ieeexplore.ieee.org/abstract/document/10737904) [code](https://github.com/xybFight/NAR4TSP) [blog](https://zhuanlan.zhihu.com/p/1928754468071146385)
 
 - <span style="
   background-color: #e0e0e0;
