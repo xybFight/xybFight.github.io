@@ -33,7 +33,7 @@ author_profile: true
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">IJCAI 2025</span> **Y. Xiao**, Y. Wu, R. Cao, D. Wang, Z. Cao, X. Wu, P. Zhao, Y. Li, Y. Zhou, Y. Jiang, “DGL: Dynamic Global-Local Information Aggregation for Scalable VRP Generalization with Self-Improvement Learning.” paper [code](https://github.com/xybFight/DGL)
+">IJCAI 2025</span> **Y. Xiao**, Y. Wu, R. Cao, D. Wang, Z. Cao, X. Wu, P. Zhao, Y. Li, Y. Zhou, Y. Jiang, “DGL: Dynamic Global-Local Information Aggregation for Scalable VRP Generalization with Self-Improvement Learning.”  [paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/7957.pdf) [code](https://github.com/xybFight/DGL)
 
 - <span style="
   background-color: #e0e0e0;
@@ -69,7 +69,7 @@ author_profile: true
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">ICONIP 2023</span> Y. Li,  **Y. Xiao**, X. Wu, L. Song, Y. Liang, Y. Zhou, “Leveraging Hierarchical Similarities for Contrastive Clustering.”
+">ICONIP 2023</span> Y. Li,  **Y. Xiao**, X. Wu, L. Song, Y. Liang, Y. Zhou, “Leveraging Hierarchical Similarities for Contrastive Clustering.” [paper](https://link.springer.com/chapter/10.1007/978-981-99-8132-8_12) [code]()
 
 - <span style="
   background-color: #e0e0e0;
@@ -78,9 +78,17 @@ author_profile: true
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">CCAI 2023</span> S. Jiao, **Y. Xiao†**, X. Wu, Y. Liang, Y. Liang, Y. Zhou, “LMSPNet: Improved Lightweight Network for Multi-Person Sitting Posture Recognition.”
+">CCAI 2023</span> S. Jiao, **Y. Xiao†**, X. Wu, Y. Liang, Y. Liang, Y. Zhou, “LMSPNet: Improved Lightweight Network for Multi-Person Sitting Posture Recognition.” [paper](https://ieeexplore.ieee.org/abstract/document/10201258) [code]()
 
 ## Journal Articles
+- <span style="
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 600;
+">ESWA</span> M. Chi, W. Pang, X. Wu, P. Zhao, Y. Li, T. Wang, J. Qian, **Y. Xiao†**, L Wang, Y. Zhou, “A generalized neural solver based on LLM-guided heuristic evoluation framework for solving diverse variants of vehicle routing problems.” [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425024935) [code]()
 - <span style="
   background-color: #e0e0e0;
   color: #333;
@@ -124,7 +132,7 @@ author_profile: true
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">Bmc bio</span> **Y. Xiao**, Z. Xiao, X. Feng, Z. Chen, L. Kuang, L. Wang, “A novel computational model for predicting potential LncRNA-disease associations based on both direct and indirect features of LncRNA-disease pairs.” [paper](https://link.springer.com/article/10.1186/s12859-020-03906-7) 
+">Bmc bio</span> **Y. Xiao**, Z. Xiao, X. Feng, Z. Chen, L. Kuang, L. Wang, “A novel computational model for predicting potential LncRNA-disease associations based on both direct and indirect features of LncRNA-disease pairs.” [paper](https://link.springer.com/article/10.1186/s12859-020-03906-7) [code]()
 
 
 
