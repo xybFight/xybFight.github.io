@@ -104,7 +104,17 @@ author_profile: true
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
+">PR</span> **Y. Xiao**, D. Wang, R. Cao, X. Wu, B. Li, Y. Zhou, “GELD: A unified neural model for efficiently solving traveling salesman problems across different scales.” [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325015286) [code](https://github.com/xybFight/GELD)
+
+- <span style="
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 600;
 ">ESWA</span> M. Chi, W. Pang, X. Wu, P. Zhao, Y. Li, T. Wang, J. Qian, **Y. Xiao†**, L Wang, Y. Zhou, “A generalized neural solver based on LLM-guided heuristic evoluation framework for solving diverse variants of vehicle routing problems.” [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425024935) [code]()
+
 - <span style="
   background-color: #e0e0e0;
   color: #333;
