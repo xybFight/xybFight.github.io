@@ -9,6 +9,8 @@ author_profile: true
 
 **† corresponding author**
 
+★ equal contributions
+
 ### - Conference papers
 - <span style="
   background-color: #e0e0e0;
@@ -104,7 +106,16 @@ author_profile: true
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">PR</span> **Y. Xiao**, D. Wang, R. Cao, X. Wu, B. Li, Y. Zhou, “GELD: A unified neural model for efficiently solving traveling salesman problems across different scales.” [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325015286) [code](https://github.com/xybFight/GELD)
+">IJCV</span> H. Li★, **Y. Xiao★**, K. Liang, M. Wang, L. Lan, K. Li, X. Liu, “Let synthetic data shine: Domain reassembly and soft-fusion for single domain generalization.” [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325015286) [code](https://github.com/xybFight/GELD)
+
+- <span style="
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 600;
+">PR</span> **Y. Xiao**, D. Wang, R. Cao, X. Wu, B. Li, Y. Zhou, “GELD: A unified neural model for efficiently solving traveling salesman problems across different scales.” [paper](https://arxiv.org/abs/2503.13617) [code]()
 
 - <span style="
   background-color: #e0e0e0;
