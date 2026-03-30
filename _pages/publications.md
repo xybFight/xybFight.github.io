@@ -19,7 +19,7 @@ author_profile: true
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">AAAI 2026</span> Y. Li, D. Wang, W. Du, X. Wu, P. Zhao, **Y. Xiao†**, Y. Zhou, “Efficient Few-Step Solution Generation via Discrete Flow Matching for Combinatorial Optimization.” [paper]() [code]()
+">AAAI 2026</span> Y. Li, D. Wang, W. Du, X. Wu, P. Zhao, **Y. Xiao†**, Y. Zhou, “Efficient Few-Step Solution Generation via Discrete Flow Matching for Combinatorial Optimization.” [paper](https://ojs.aaai.org/index.php/AAAI/article/view/41035) [code](https://github.com/liys-9/EFLOCO)
 - <span style="
   background-color: #e0e0e0;
   color: #333;
@@ -106,7 +106,7 @@ author_profile: true
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">IJCV</span> H. Li★, **Y. Xiao★**, K. Liang, M. Wang, L. Lan, K. Li, X. Liu, “Let synthetic data shine: Domain reassembly and soft-fusion for single domain generalization.” [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325015286) [code](https://github.com/xybFight/GELD)
+">IJCV</span> H. Li★, **Y. Xiao★**, K. Liang, M. Wang, L. Lan, K. Li, X. Liu, “Let synthetic data shine: Domain reassembly and soft-fusion for single domain generalization.” [paper](https://arxiv.org/abs/2503.13617) [code]()
 
 - <span style="
   background-color: #e0e0e0;
