@@ -19,6 +19,25 @@ author_profile: true
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
+">KDD 2026</span> R. Cao, Z. Cao, Y. Huang, J. Wang, Y. Jiang,  **Y. Xiao†**, You Zhou , “Learning to Handle Constrained Routing Problems From a Decoupling Perspective.” [paper]() [code]()
+
+
+- <span style="
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 600;
+">ICML 2026</span> Z. Shang, X. Han, L. Wang, W. Du, P. Zhao, Y. Li, **Y. Xiao†**, X Wu, Y Zhou, “SpaEF: Spatially Resolved Transcriptomics Data Element-Wise Denoising Framework Powered by Large Models.” [paper](https://openreview.net/forum?id=QO1uZg4fj4) [code](https://github.com/Zekuan-Shang/SpaEF)
+
+- <span style="
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 600;
 ">AAAI 2026</span> Y. Li, D. Wang, W. Du, X. Wu, P. Zhao, **Y. Xiao†**, Y. Zhou, “Efficient Few-Step Solution Generation via Discrete Flow Matching for Combinatorial Optimization.” [paper](https://ojs.aaai.org/index.php/AAAI/article/view/41035) [code](https://github.com/liys-9/EFLOCO)
 - <span style="
   background-color: #e0e0e0;
@@ -99,6 +118,15 @@ author_profile: true
 ">CCAI 2023</span> S. Jiao, **Y. Xiao†**, X. Wu, Y. Liang, Y. Liang, Y. Zhou, “LMSPNet: Improved Lightweight Network for Multi-Person Sitting Posture Recognition.” [paper](https://ieeexplore.ieee.org/abstract/document/10201258) [code]()
 
 ## Journal Articles
+- <span style="
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 600;
+">ESWA</span> X. Wu, D. Wang, C. Wu, K. Qi, C. Miao, **Y. Xiao†**, J. Zhan, Y. Zhou, “Efficient neural combinatorial optimization solver for the min-max heterogeneous capacitated vehicle routing problem.” [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426021433) [code]()
+
 - <span style="
   background-color: #e0e0e0;
   color: #333;
