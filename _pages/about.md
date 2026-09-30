@@ -20,8 +20,13 @@ Contact: xiaoyb21@mails.jlu.edu.cn
 - China National Scholarship, 2021
 - Academic scholarships: First-class (2018-2019, 2019-2020), Second-class (2020-2021)
 
+
+🖖Fundings
+======
+- Young Scientists Fund of the National Natural Science Foundation of China (2027.01-2029.12)
+
 🗃️Services
 ======
-Reviewer: NeurIPS'25, ICLR'26/25, WWW'26, KDD'26, AAAI'26/25/24, IJCAI'25/24, TNNLS, TITS, TII, SCIS, etc.
+Reviewer: NeurIPS'26/25, ICLR'27/26/25, WWW'26, ICML'26, KDD'27/26, AAAI'27/26/25/24, IJCAI'26/25/24, TNNLS, TITS, TII, SCIS, etc.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=7HpaVz6NBolqe2tz9NQI2HxCrtxxZu6q64PrlKOcL-g&cmo=3acc3a&cmn=ff5353&co=ffffff&ct=808080'></script>
