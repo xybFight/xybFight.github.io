@@ -19,7 +19,7 @@ author_profile: true
   border-radius: 4px;
   font-size: 0.9em;
   font-weight: 600;
-">KDD 2026</span> R. Cao, Z. Cao, Y. Huang, J. Wang, Y. Jiang,  **Y. Xiao†**, You Zhou , “Learning to Handle Constrained Routing Problems From a Decoupling Perspective.” [paper]() [code]()
+">KDD 2026</span> R. Cao, Z. Cao, Y. Huang, J. Wang, Y. Jiang,  **Y. Xiao†**, You Zhou , “Learning to Handle Constrained Routing Problems From a Decoupling Perspective.” [paper](https://dl.acm.org/doi/abs/10.1145/3770855.3817954) [code]()
 
 
 - <span style="
@@ -118,6 +118,15 @@ author_profile: true
 ">CCAI 2023</span> S. Jiao, **Y. Xiao†**, X. Wu, Y. Liang, Y. Liang, Y. Zhou, “LMSPNet: Improved Lightweight Network for Multi-Person Sitting Posture Recognition.” [paper](https://ieeexplore.ieee.org/abstract/document/10201258) [code]()
 
 ## Journal Articles
+- <span style="
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: 600;
+">TNNLS</span> X. Wu, L. Wen,  **Y. Xiao†**, C. Wu, Y. Wu, C. Yu, D. L Maskell, Y. Zhou, D. Wang, “Neural combinatorial optimization algorithms for solving vehicle routing problems: A comprehensive survey with perspectives.” [paper](https://ieeexplore.ieee.org/abstract/document/11615127) [code]()
+
 - <span style="
   background-color: #e0e0e0;
   color: #333;
